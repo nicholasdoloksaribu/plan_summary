@@ -6,3 +6,4 @@
  ^goravel
 - belajar laravel
 - belajar php oop
+- belajar data structure
