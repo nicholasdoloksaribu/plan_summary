@@ -1,5 +1,8 @@
 - belajar git
 - belajar php
 - belajar golang
+^ gin
+^ echo
 - belajar laravel
 - belajar php oop
+- belajar data structure
