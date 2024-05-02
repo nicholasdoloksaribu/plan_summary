@@ -1,0 +1,3 @@
+- belajar java
+- belajar framework golang
+- belajar react
